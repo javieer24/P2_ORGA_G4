@@ -1,7 +1,9 @@
 # P2_ORGA_G4
 <h1 align="center">Practica 2</h1>
 <h2 align="center">Grupo #4</h2>
-
+<p align="center">
+    <img src="IMG\Circuito completo.png">
+</p>
 <div align="center"> 🏛 Universidad San Carlos de Guatemala</div>
 <div align="center">
 💻 Laboratorio de Organizacion Computacional 
@@ -36,7 +38,8 @@ La unidad comparativa, encargada de realizar cálculos comparativos entre las en
 - [P2\_ORGA\_G4](#p2_orga_g4)
   - [📋 Tabla de Contenidos](#-tabla-de-contenidos)
   - [🗂 Recursos](#-recursos)
-  - [💻 Circuitos Fisicos](#-circuitos-fisicos)
+  - [💻 Circuito Completo en Proteus](#-circuito-completo-en-proteus)
+  - [🤖 Circuitos Fisicos](#-circuitos-fisicos)
   - [📖 Documentación](#-documentación)
 
 
@@ -47,7 +50,12 @@ La unidad comparativa, encargada de realizar cálculos comparativos entre las en
   <li><a href="https://www.electroallweb.com/index.php/2022/07/18/descargar-proteus-8-13-sp0-gratis/">Proteus</a></li>
 </ul>
 
-## 💻 Circuitos Fisicos
+## 💻 Circuito Completo en Proteus
+<p align="center">
+    <img src="IMG\Circuito completo.png">
+</p>
+
+## 🤖 Circuitos Fisicos
 
 <p align="center">
     <img src="IMG\Proyecto nuevo.jpg">
