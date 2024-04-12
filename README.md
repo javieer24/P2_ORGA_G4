@@ -78,7 +78,7 @@ La unidad comparativa, encargada de realizar cálculos comparativos entre las en
 ## 📖 Documentación
 Para comprender de mejor manera el funcionamiento del sistema puede dirigirse a lo siguiente:
     <ul>
-       <li><a href="https://github.com/javieer24/IPC2_Proyecto2Diciembre_-Grupo8/blob/main/Documentacion/Proyecto%202%20-%20IPC2.pdf">Planteamiento de proyecto</a></li>
-        <li><a href="https://github.com/javieer24/IPC2_Proyecto2Diciembre_-Grupo8/blob/pruebasDB/Documentacion/Documentacion.pdf" target="_blank">Documentacion Ensayo</a></li>
+       <li><a href="[https://github.com/javieer24/IPC2_Proyecto2Diciembre_-Grupo8/blob/main/Documentacion/Proyecto%202%20-%20IPC2.pdf](https://github.com/javieer24/P2_ORGA_G4/blob/main/Documentaci%C3%B3n/P2_ORGA.pdf)">Planteamiento de proyecto</a></li>
+        <li><a href="[https://github.com/javieer24/IPC2_Proyecto2Diciembre_-Grupo8/blob/pruebasDB/Documentacion/Documentacion.pdf](https://github.com/javieer24/P2_ORGA_G4/blob/main/Documentaci%C3%B3n/P2_ORGA_G4.pdf)" target="_blank">Documentacion Ensayo</a></li>
     </ul>
 
