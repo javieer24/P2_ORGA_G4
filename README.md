@@ -33,34 +33,52 @@ La unidad comparativa, encargada de realizar cálculos comparativos entre las en
 
 ## 📋 Tabla de Contenidos
 
-- [🗂 Recursos](#-recursos)
-
-- [💻 Ejemplo de Interfaz de Usuario Project2](#-ejemplo-de-interfaz-deusuario-mp3music)
-
-- [📖 Documentación](#-documentación)
+- [P2\_ORGA\_G4](#p2_orga_g4)
+  - [📋 Tabla de Contenidos](#-tabla-de-contenidos)
+  - [🗂 Recursos](#-recursos)
+  - [💻 Circuitos Fisicos](#-circuitos-fisicos)
+  - [📖 Documentación](#-documentación)
 
 
 <!-- Requerimientos -->
 
 ## 🗂 Recursos
 <ul>
-  <li><a href="https://www.python.org/downloads/release/python-3115/">Python 3.11.5 o Superior</a></li>
-  <li><a href="https://www.reportlab.com/">Matplotlib</a></li>
-  <li><a href="https://matplotlib.org/">ReportLab</a></li>
+  <li><a href="https://www.electroallweb.com/index.php/2022/07/18/descargar-proteus-8-13-sp0-gratis/">Proteus</a></li>
 </ul>
 
-## 💻 Ejemplo de Interfaz de Usuario Project2
+## 💻 Circuitos Fisicos
 
 <p align="center">
-    <img src="IMG\inicio.png">
+    <img src="IMG\Proyecto nuevo.jpg">
+</p> 
+
+<p align="center">
+    <img src="IMG\Proyecto nuevo (1).jpg">
 </p>
+
+<p align="center">
+    <img src="IMG\Proyecto nuevo (2).jpg">
+</p>
+
+<p align="center">
+    <img src="IMG\Proyecto nuevo (3).jpg">
+</p>
+
+<p align="center">
+    <img src="IMG\Proyecto nuevo (4).jpg">
+</p>
+
+<p align="center">
+    <img src="IMG\Proyecto nuevo (5).jpg">
+</p>
+
+
 
 ## 📖 Documentación
 Para comprender de mejor manera el funcionamiento del sistema puede dirigirse a lo siguiente:
     <ul>
-       <li><a href="https://github.com/javieer24/IPC2_Proyecto2Diciembre_-Grupo8/blob/main/Documentacion/Proyecto%202%20-%20IPC2.pdf">:point_right:Planteamiento de proyecto</a></li>
-        <li><a href="https://github.com/javieer24/IPC2_Proyecto2Diciembre_-Grupo8/blob/pruebasDB/Documentacion/Documentacion.pdf" target="_blank">:point_right:Documentacion Ensayo</a></li>
-       <li><a href="https://github.com/javieer24/IPC2_Proyecto2Diciembre_-Grupo8/tree/main/Documentacion/Manual%20Tecnico">:point_right:Manual Técnico</a></li>
-       <li><a href="https://github.com/javieer24/IPC2_Proyecto2Diciembre_-Grupo8/tree/main/Documentacion/Manual%20Usuario">:point_right:Manual de Usuario</a></li>
+       <li><a href="https://github.com/javieer24/IPC2_Proyecto2Diciembre_-Grupo8/blob/main/Documentacion/Proyecto%202%20-%20IPC2.pdf">Planteamiento de proyecto</a></li>
+        <li><a href="https://github.com/javieer24/IPC2_Proyecto2Diciembre_-Grupo8/blob/pruebasDB/Documentacion/Documentacion.pdf" target="_blank">Documentacion Ensayo</a></li>
     </ul>
 
